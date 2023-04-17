@@ -4,7 +4,7 @@ Repo for verb tense study for Bucknell Linguistics Lab
 
 ## Instructions for Setting up Additional Experiments Online
 
-#### Hosting a website:
+### Hosting a website:
 Bucknell has its own linux servers where you can easily set up and host a website, check out the instructions here: https://bucknell.teamdynamix.com/TDClient/40/LIT/KB/ArticleDet?ID=287 - you will have to log on to one of Bucknell’s remote linux servers, the instructions for how to set that up if you haven’t done it before are linked in the instructions above.
 
 **IMPORTANT:**  if you want your website to be able to send data back to you, you will have to change the permission of public_html to **chmod ugo+rwx ~/public_html** instead of chmod go+x ~/public_html like the tutorial says.
